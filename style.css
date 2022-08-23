@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+#header{
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    /* background-image: linear-gradient(#a19fa2, #ede5f1); */
+}
+.header-title{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(24, 16, 41);
+}
+.single-title{
+    color: white;
+}
+.description{
+    text-align: center;
+    font-size: 18px;
+}
+.single-dsc{
+    color: aliceblue;
+}
+.button-style{
+    margin: 0 auto;
+}
+.donate-title{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(24, 16, 41);
+}
+.main{
+    width: 70%;
+    margin: 50px auto;
+    display: flex;
+}
+.amount{
+    border: 0px solid rgb(243, 240, 240) ;
+    width: 20%;
+    text-align: center;
+    box-shadow: 5px 3px 20px 2px #888888;
+    background-color: rgb(131, 167, 245);
+    padding: 10px 0;
+    margin-right: 15px;
+    border-radius: 5px;
+    color: rgb(245, 239, 239);
+}
+.amount-style{
+    border: 2px solid rgb(236, 137, 220);
+    background-color: rgb(55, 116, 209);
+    color: rgb(236, 137, 220);
+}
+
+.money{
+    margin: 25px 0;
+    text-align: center;
+}
+.money-input{
+    padding: 10px 100px;
+    text-align: center;
+    border: none;
+    font-size: 25px;
+}
+hr{
+    width: 70%;
+}
+.button{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button-style{
+    border: none;
+    color: white;
+    background-color: rgb(223, 94, 165);
+    padding: 15px 18px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.donate-plan{
+    display: flex;
+    margin: 20px auto;
+    width: 70%;
+    /* text-align: center; */
+}
+.single-plan{
+    border: 0px solid rgb(243, 240, 240) ;
+    /* width: 20%; */
+    text-align: center;
+    box-shadow: 5px 3px 20px 2px #888888;
+    background-color: rgb(131, 167, 245);
+    padding: 30px 20px;
+    text-align: justify;
+    margin-right: 25px;
+    border-radius: 5px;
+    color: rgb(57, 57, 59);
+}
+.food-style{
+    background-color: rgb(177, 125, 179);
+}
+.edu
+.email-sub{
+    text-align: center;
+    background-color: rgb(226, 211, 161);
+    width: 60%;
+    margin: 20px auto;
+    padding: 70px 0;
+    border-radius: 5px;
+}
+.sub{
+    border: none;
+    color: white;
+    background-color: rgb(223, 94, 165);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.sub-input{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+.main-footer{
+    display: flex;
+    background-color: #0B0D17;
+    padding: 12px 0;
+}
+.footer{
+    text-align: center;
+    width: 33.33%;
+    color: white;
+}
+/* .main-footer{
+    margin-top: 120px;
+    background-color: black;
+    padding: 30px 0;
+} */
+/* .footer-logo{
+    text-align: center;
+    color: rgb(238, 30, 30);
+}
+.footer-bottom{
+    text-align: center;
+    color: white;
+} */
